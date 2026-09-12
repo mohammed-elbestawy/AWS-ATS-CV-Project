@@ -63,7 +63,7 @@ Region: `us-east-1`
 
 Successfully generated a CV, stored it in S3, and ran the JD analyzer end-to-end — returned a real match score with missing-keyword suggestions against an actual job description.
 
-![Full end-to-end test result](screenshots/16-fulltest.png)
+![Full end-to-end test result](screenshots/16-result.png)
 
 ## Skills Demonstrated
 
