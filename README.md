@@ -7,16 +7,19 @@
 ![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=flat&logo=flask&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live%20Tested-brightgreen)
 
-## Table of Contents
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Features](#features)
-- [Live Test Result](#live-test-result)
-- [Skills Demonstrated](#skills-demonstrated)
-- [Real Issues Hit & Fixed](#real-issues-hit--fixed)
-- [Possible Improvements](#possible-improvements)
-- [Cost Management](#cost-management)
-- [Repository Structure](#repository-structure)
+## 📋 Table of Contents
+
+| Section | Description |
+|---|---|
+| 🎯 [Overview](#overview) | What the project does |
+| 🏗 [Architecture](#architecture) | Service layers and data flow |
+| ✨ [Features](#features) | Core capabilities |
+| ✅ [Live Test Result](#live-test-result) | End-to-end test proof |
+| 🛠 [Skills Demonstrated](#skills-demonstrated) | What this project shows |
+| 🐛 [Real Issues Hit & Fixed](#real-issues-hit--fixed) | Debugging log |
+| 🚀 [Possible Improvements](#possible-improvements) | Future enhancements |
+| 💰 [Cost Management](#cost-management) | Billing decisions |
+| 📁 [Repository Structure](#repository-structure) | File layout |
 
 ## Overview
 
